@@ -44,6 +44,27 @@ round-avatar: true
 # --- Footer options --- #
 social-network-links:
   github: aceisScope
+
+# --- misc --- #
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+      readtime: false # add estimated reading time on all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+
 # Build settings
 remote_theme: daattali/beautiful-jekyll@4.0.1
 plugins:
