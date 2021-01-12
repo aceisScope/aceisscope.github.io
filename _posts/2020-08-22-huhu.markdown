@@ -16,5 +16,3 @@ tags: [音乐]
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/y9kgBc8E4z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-(这个视频并不是乐夏现场的演出，而是木玛过去演出的剪辑，错过又重来，泪目)
