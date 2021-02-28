@@ -19,3 +19,7 @@ Stayしがちなイメージだらけの　頼りない翼でも”
 他在B站上的账号叫大刀阔斧向前进，至今只有三千多个粉丝，第一次发《Butter-Fly》的翻唱是2015年。与之相比，创4的battle里他的演唱技术以及日语发音进步得不是一点两点。但正是因为这首歌，才更令人叹息。
 
 “即使是这双总是给人停滞不前印象的 不可靠的翅膀 也一定能展翅飞翔”。
+
+<figure class="video_container">   
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=886979047&bvid=BV1BK4y1J7dn&cid=304082284&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</figure>
