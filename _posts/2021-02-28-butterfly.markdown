@@ -21,5 +21,5 @@ Stayしがちなイメージだらけの　頼りない翼でも”
 “即使是这双总是给人停滞不前印象的 不可靠的翅膀 也一定能展翅飞翔”。
 
 <figure class="video_container">   
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=886979047&bvid=BV1BK4y1J7dn&cid=304082284&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zP04JmfHryw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
