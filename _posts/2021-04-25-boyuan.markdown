@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "化茧成蝶 振翅高飞" 
-subtitle: "伯远啊伯远"
+subtitle: "伯远啊伯远——理想主义者永不消亡"
 date:   2021-04-25 11:56
-share-img: "https://wx3.sinaimg.cn/large/0065nuc7gy1gpkzu1vl7jj30u013t1kx.jpg"
 tags: [杂记]
 ---
 
@@ -36,5 +35,3 @@ tags: [杂记]
 </figure>
 
 在此祝愿理想与浪漫永不消亡。
-
-![Boyuan Butter-Fly](https://wx3.sinaimg.cn/large/0065nuc7gy1gpkzu1vl7jj30u013t1kx.jpg)
