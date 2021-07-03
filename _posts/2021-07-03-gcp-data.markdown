@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "How I Passed Google Cloud Professional Data Engineer Certification Exam" 
+date:   2021-07-03 16:47
+tags: [技术]
+---
+
+This is my first technology-related post and probably the last one (?).
+
+Since I work for a consulting enterprise and was on the bench for most of June, I decided to use the "free time" to acquire a cloud certification. I chose the GCP one because I have a GCP Associate Cloud Engineer Certification which is going to expire in August and I don't really want to renew it.
+
+So I chose to prepare for the GCP Data Engineer Certification. It is mainly because in 2019 I had the intention of switching my career path to data engineering so I completed the Google training for data engineering on Coursera. 
+
+However, at that point, I realized I wasn't well prepared. I had taken the online training but I still lacked some basic Google Cloud knowledge. In the end, I decided to prepare for the Associate Cloud Engineer Certification exam instead such that I could have a much better grasp of the GCP tech details. 
+
+This year when preparing for the Data Engineer Certification exam, I didn't take Google's online training at all although I have full access to the training on QwikiLabs. It is useful if one knows nothing about GCP and expects some basic 101 introductions, but it's definitely not enough for the exam. 
+
+I took the course on A Cloud Guru instead. The lectures are well organized and the lecturers speak very clear English (if you know what I mean). 
+
+When following the lectures, I created a [note](https://github.com/aceisScope/GCP_DE_Notes) on GitHub based on the great [gist](https://gist.github.com/costrouc/d9db5f6f81779418842bb0df580a11ca) created by Christopher Ostrouchov. 
+
+However, the practice exams on A Cloud Guru are too simple compared to the real exams. Honestly I would say the real exam is at least 30% more difficult than all the practice quizzes I had done. 
+
+To get a bit better preparation, I went through the questions on Exam Topic [https://www.examtopics.com/exams/google/professional-data-engineer/](https://www.examtopics.com/exams/google/professional-data-engineer/). It's important to know some of the questions are ambiguous and the answers are even wrong, so it is important to reach through the discussion on each question. Nonetheless, this set of questions are the closest to the real ones on the difficulty scale. 
+
+When the day finally came, I already got quite confused and a bit sweaty trying to locate the exam center from Helsinki Pasila Railway station (that area looks like the Soviet Union in many ways). I had to mark all the first five questions for review- actually out of 50 questions I marked 22 for review after the first round of answers. But the key is to keep calm and analyze the questions more carefully in the review rounds. Most of the questions are very logical so even without GCP knowledge but with pure database knowledge, one could have quite a good guess. 
+
+Some tips for taking away:
+1. Keep calm
+2. Be very familiar with BigQuery because you will see a lot of related questions on this topic
+3. Fundamental Machine Learning knowledge is required 
