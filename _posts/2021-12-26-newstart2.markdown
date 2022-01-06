@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "新起点（中）" 
+title: "新起点（中）" 
 subtitle: "写于毕业十周年"
-date:   2021-12-26 19:41
+date:  2021-12-26 19:41
 tags: [杂记]
 ---
 
