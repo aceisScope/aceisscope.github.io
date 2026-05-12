@@ -66,6 +66,7 @@ defaults:
 
 
 # Build settings
+timezone: Europe/Helsinki
 remote_theme: daattali/beautiful-jekyll@4.0.1
 plugins:
   - jekyll-feed
